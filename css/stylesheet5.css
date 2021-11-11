@@ -1,0 +1,29 @@
+/* style sheet for period 5 */
+
+body {
+    background-color: rgba(0, 20, 70, 0.8);
+}
+
+p {
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}
+
+h1 {
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}
+
+h3 {
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}
+
+a {
+    color: rgba(255, 255, 255, 1);
+}
+
+
+div {
+    text-align: center;
+}
